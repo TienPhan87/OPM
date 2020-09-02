@@ -70,10 +70,12 @@ TOPS
 -- The depth of the top of each grid block
 --  81*7315 81*7345 81*7375 81*7425 /
   3500*12000 / 
-
+NTG
+    35000*0.75 /
+    
 PORO
 -- Constant porosity of 0.3 throughout all 35000 grid cells
-    35000*0.13 /
+    35000*0.28 /
 
 PERMX
 -- The layers have horizontal (meaning x- and y-direction) permeability 
