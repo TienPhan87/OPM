@@ -329,6 +329,8 @@ WOPR
 /
 
 FOPR
+FGPR
+FGPT
 
 WOPT
   'G1'
@@ -349,6 +351,10 @@ WGIR
 /
 
 WGPR
+  'G1'
+  'G2'
+/
+WGPT
   'G1'
   'G2'
 /
